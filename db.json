@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "FrontEnd"
+    },
+    {
+      "id": 2,
+      "nombre": "BackEnd"
+    },
+    {
+      "id": 3,
+      "nombre": "DevOps"
+    },
+    {
+      "id": 4,
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "Vue 3 con TypeScript",
+      "precio": 200,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Web APIs con NestJS",
+      "precio": 300,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Docker para Seniors",
+      "precio": 450,
+      "categoriaId": 3
+    },
+    {
+      "id": 4,
+      "nombre": "La Guía definitiva del Prompt Engineering con ChatGPT para FrontEnd",
+      "precio": 470,
+      "categoriaId": 1
+    },
+    {
+      "nombre": "SvelteKit, la Guía Definitiva",
+      "categoriaId": 1,
+      "precio": 555,
+      "id": 5
+    }
+  ]
+}
