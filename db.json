@@ -32,20 +32,20 @@
     },
     {
       "id": 3,
-      "nombre": "Docker para Seniors",
-      "precio": 450,
+      "nombre": "Docker para principiantes",
+      "precio": 250,
       "categoriaId": 3
     },
     {
       "id": 4,
-      "nombre": "La Guía definitiva del Prompt Engineering con ChatGPT para FrontEnd",
-      "precio": 470,
-      "categoriaId": 1
+      "nombre": "La Guía definitiva del Prompt Engineering con ChatGPT",
+      "precio": 270,
+      "categoriaId": 4
     },
     {
-      "nombre": "SvelteKit, la Guía Definitiva",
+      "nombre": "Favio",
       "categoriaId": 1,
-      "precio": 555,
+      "precio": 888,
       "id": 5
     }
   ]
