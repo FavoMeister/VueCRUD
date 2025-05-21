@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import FormularioPruebas from './components/FormularioPruebas.vue';
 
 </script>
 
@@ -7,7 +8,7 @@
     
   </header>
 
-  <RouterView />
+  <FormularioPruebas />
 </template>
 
 <style scoped></style>
